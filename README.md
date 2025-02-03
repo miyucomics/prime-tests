@@ -1,3 +1,4 @@
+`aks.py` - implements [AKS test](https://en.wikipedia.org/wiki/AKS_primality_test) for primality.
 `fermat.py` - implements [Fermat's heuristic](https://en.wikipedia.org/wiki/Fermat_primality_test) for primality.
 `lucas.py` - implements [Lucas's test](https://en.wikipedia.org/wiki/Lucas_primality_test) for primality.
 `miller-rabin.py` - implements the [Miller-Rabin test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) for primality.
